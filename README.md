@@ -2,5 +2,5 @@
 Javascript assigment Group 5 Ian, Marco, Kian
 Project Completed By
 Marco De Melo
-Ian 
+Ian Haworth 
 Kian Petroskie 
